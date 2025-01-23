@@ -1,0 +1,6 @@
+openai==1.59.9
+SQLAlchemy==2.0.34
+PyQt6==6.8.0
+PyQt6-Qt6==6.8.1
+PyQt6_sip==13.9.1
+python-dotenv==1.0.1

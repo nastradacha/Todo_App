@@ -1,0 +1,8 @@
+.env
+__pycache__/
+*.pyc
+
+# Database files
+*.db
+*.sqlite
+*.db-journal
