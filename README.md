@@ -14,27 +14,27 @@ A PyQt6-based todo list app with AI task generation using OpenAI's API.
 
 3. Environment Setup:
    1. Create .env file in the project root: 
-      . '''bash 
+      - '''bash 
       touch .env
    2. Add your OpenAI API key to file: OPENAI_API_KEY=your-api-key-here
    3. The app will automatically:
-         . Create the database (todo_app.db) on first run
-         . Generate necessary tables
+         - Create the database (todo_app.db) on first run
+         - Generate necessary tables
 
 ## Running the Application
 
-1. '''Bash
+1. '''bash
    python todo_app.py
 
 
 ## Features
 
-. Tabbed task organization
+- Tabbed task organization
 
-. ChatGPT task generation
+- ChatGPT task generation
 
-. SQLite database storage
+- SQLite database storage
 
-. Mark tasks as done/undone
+- Mark tasks as done/undone
 
-. delete task or tabs
+- delete task or tabs
